@@ -112,3 +112,6 @@ rm -rf /tmp/fcitx-socket-:0
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img004.png" width=600 alt="截图004"/>
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img005.png" width=600 alt="截图005"/>
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img006.png" width=600 alt="截图006"/>
+# 支持一下作者,有继续更新的动力呦!
+
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/money.png" width=600 alt="截图"/>
