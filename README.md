@@ -67,7 +67,8 @@ sogou-qimpanel
 搜狗默认皮肤目录为:/usr/share/sogou-qimpanel/skin
 从官网下载你喜欢的皮肤,记住一定是要带有后缀.ssf文件的才是linux支持的皮肤
 然后放到skin目录下新建一个文件夹,名字就是这款皮肤的名字,之后使用鼠标右击.ssf文件,选择用搜狗拼音打开
-最终你会看到输入法皮肤已经改变了!切换皮肤的时候右击输入法界面,选择皮肤,之后在里面选择你喜欢的皮肤即可
+最终你会看到输入法皮肤已经改变了!
+至于快速切换皮肤的时候,右击输入法界面,选择皮肤,之后在里面选择你喜欢的皮肤即可
 ```
 # 常见问题
 1. 启动报错
@@ -106,3 +107,4 @@ rm -rf /tmp/fcitx-socket-:0
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img003.png" width=600 alt="截图003"/>
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img004.png" width=600 alt="截图004"/>
 <img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img005.png" width=600 alt="截图005"/>
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img006.png" width=600 alt="截图006"/>
