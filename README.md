@@ -96,3 +96,4 @@ rm -rf ~/.config/SogouPY
 rm -rf /tmp./sogou*
 rm -rf /tmp/fcitx-socket-:0
 ```
+![Alt text](https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img001.png)
