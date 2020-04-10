@@ -50,7 +50,7 @@ ln -s /usr/lib64/libidn.so.12 /usr/lib64/libidn.so.11
 ```
 sogou-qimpanel
 ```
-### 快捷键为： curl+空格
+### 快捷键为： Ctrl+空格(space)
 启动且无致命错误后，可以测试输入法，或者终止安装程序。
 
 # 卸载
@@ -58,13 +58,17 @@ sogou-qimpanel
 ./uninstall.sh
 ```
 
-# 如何更换皮肤?
+# 如何安装皮肤以及快速切换皮肤?
 ```
 官方皮肤下载地址: https://pinyin.sogou.com/skins/
 ```
-  安装后都会带有几款默认的搜狗皮肤,存储目录为/usr/share/sogou-qimpanel/recommendSkin/skin
-  搜狗默认皮肤目录为:/usr/share/sogou-qimpanel/skin,从官网下载你喜欢的皮肤,记住一定是要带有后缀.ssf文件的才是linux支持的皮肤,然后放到skin目录下新建一个文件夹,名字就是这款皮肤的名字,之后使用鼠标右击.ssf文件,选择用搜狗拼音打开,最终你会看到输入法皮肤已经改变了!
-
+```
+安装后都会带有几款默认的搜狗皮肤,存储目录为/usr/share/sogou-qimpanel/recommendSkin/skin
+搜狗默认皮肤目录为:/usr/share/sogou-qimpanel/skin
+从官网下载你喜欢的皮肤,记住一定是要带有后缀.ssf文件的才是linux支持的皮肤
+然后放到skin目录下新建一个文件夹,名字就是这款皮肤的名字,之后使用鼠标右击.ssf文件,选择用搜狗拼音打开
+最终你会看到输入法皮肤已经改变了!切换皮肤的时候右击输入法界面,选择皮肤,之后在里面选择你喜欢的皮肤即可
+```
 # 常见问题
 1. 启动报错
 ```
