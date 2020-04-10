@@ -96,4 +96,9 @@ rm -rf ~/.config/SogouPY
 rm -rf /tmp./sogou*
 rm -rf /tmp/fcitx-socket-:0
 ```
-![Alt text](https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img001.png)
+# 效果预览
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img001.png" width=600 alt="截图001"/>
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img002.png" width=600 alt="截图002"/>
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img003.png" width=600 alt="截图003"/>
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img004.png" width=600 alt="截图004"/>
+<img src="https://github.com/Hello-Linux/fedora-Sougou-Pinyin/blob/master/ScreenShots/img005.png" width=600 alt="截图005"/>
