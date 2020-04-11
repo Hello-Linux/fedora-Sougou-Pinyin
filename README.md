@@ -35,7 +35,7 @@ mkdir ~/.config/autostart
 cp fcitx.desktop ~/.config/autostart
 #重启时生效 默认输入法修改
 sudo cp fcitx.sh /etc/profile.d
-#本地默认输入法
+#设置fcitx为本地默认输入法
 echo 'export GTK_IM_MODULE=fcitx' >> ~/.bashrc
 echo 'export QT_IM_MODULE=fcitx' >> ~/.bashrc
 echo 'export XMODIFIERS=@im=fcitx' >> ~/.bashrc
@@ -46,7 +46,7 @@ cp /usr/lib/x86_64-linux-gnu/fcitx/fcitx-sogoupinyin.so /usr/lib64/fcitx
 ln -s /usr/lib/x86_64-linux-gnu/fcitx/fcitx-punc-ng.so /usr/lib64/fcitx-punc-ng.so
 ln -s /usr/lib64/libidn.so.12 /usr/lib64/libidn.so.11
 ```
-### 5.启动
+### 5.启动输入法
 ```
 sogou-qimpanel
 ```
@@ -102,7 +102,7 @@ check false, remove C
 这种一般是输入法缓存导致的执行如下命令重启即可
 ```
 rm -rf ~/.config/SogouPY
-rm -rf /tmp./sogou*
+rm -rf /tmp/sogou*
 rm -rf /tmp/fcitx-socket-:0
 ```
 # 效果预览
