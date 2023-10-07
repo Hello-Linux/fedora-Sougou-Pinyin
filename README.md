@@ -13,14 +13,14 @@ chmod +x *.sh
 ```
 ./install.sh config
 ```
-3.如果你已经完成了fcitx的安装,并且可以使用它,请使用如下命令完成搜狗输入法的安装
+3.如果你已经完成了fcitx的安装,并且可以使用它,请使用如下命令完成搜狗输入法的安装(默认为旧版本搜狗输入法)
 ```
 ./install.sh install
 ```
 # 二. 手动安装(可以使用最新版的输入法)
 ### 1.下载最新版本的搜狗deb包
-使用dpkg -X sogoupinyin_xxxx.xxx_amd64.deb解包搜狗输入法
-### 2.将包下的 etc/和 usr/目录放置到linux根目录下
+在fedora下使用dpkg -X sogoupinyin_xxxx.xxx_amd64.deb解包搜狗输入法，没有dpkg命令安装即可!
+### 2.执行如下命令，将包下的 etc/和 usr/目录放置到linux/根目录下
 ```
 cp -pr usr/ /
 cp -pr etc/ /
@@ -50,7 +50,7 @@ ln -s /usr/lib64/libidn.so.12 /usr/lib64/libidn.so.11
 ```
 sogou-qimpanel
 ```
-### 快捷键为： Ctrl+空格(space)
+### 输入法切换快捷键为： Ctrl+空格(space)
 启动且无致命错误后，可以测试输入法，或者终止安装程序。
 
 # 卸载输入法
